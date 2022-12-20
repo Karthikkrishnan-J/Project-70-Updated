@@ -1,0 +1,72 @@
+.Menu{
+    position: sticky;
+    top: 0px;
+    z-index: 10;
+    margin-top: 0px;
+    background-color:rgb(255, 255, 255);
+    font-size: medium;
+    font-family: cursive;
+    text-decoration: none;
+}
+.Video{
+    width: 100pc;
+    height: 500px;
+    border: none;
+}
+.Church{
+    border-color: indigo;
+    border-width: 10px;
+    border-style: dotted;
+}
+.SchoolLibrary{
+    border-color:aqua ;
+    border-width: 10px;
+    border-style: dotted;    
+}
+.SchoolLibrary img{
+    width: 1000px;
+}
+.Auditorium{
+    border-color:darkorange ;
+    border-width: 10px;
+    border-style: dotted;
+}
+.Auditorium img{
+    width: 1000px;
+}
+.debate_head{
+    padding: 6px 22px;
+    font-size: 20px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+.debate_head i{
+    float: right;
+}
+.debate_text span{
+    color:orange ;
+}
+.football_head{
+    padding: 6px 22px;
+    font-size: 20px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+.football_head i{
+    float: right;
+}
+.football_text span{
+    color:orange ;
+}
+.project_head{
+    padding: 6px 22px;
+    font-size: 20px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+.project_head i{
+    float: right;
+}
+.project_text span{
+    color:orange ;
+}
